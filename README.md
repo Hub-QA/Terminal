@@ -1,1 +1,1 @@
-# __*Terminal*__
+# __*terminal*__
